@@ -1,1 +1,1 @@
-# PR-Template-Test
+Sample of PR Template
